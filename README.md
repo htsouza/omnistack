@@ -5,7 +5,9 @@
   - Javascript
   - Node.js
   - React
-  - React Native
+  - React Native (Mobile)
+  - SQLite (Banco de Dados)
+  - KNEX.JS (Query Builder)
 
 # Entidades e funcionalidades da aplicação
  - Entities:
